@@ -1,7 +1,7 @@
 # Kevin Kawchak
 
 **Founder CEO, ChemicalQDevice**  
-Building open-source systems for **oncology clinical trials**, **clinical robotics**, **federated learning**, and **physical AI safety**.
+Builds open-source systems for **oncology clinical trials**, **clinical robotics**, **federated learning**, and **physical AI safety**.
 
 This GitHub profile organizes research and engineering prototypes focused on how AI systems, robotics, clinical trial infrastructure, and regulated healthcare workflows may converge in oncology.
 
