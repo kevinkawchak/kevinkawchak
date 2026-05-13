@@ -12,7 +12,6 @@ This GitHub profile organizes research and engineering prototypes focused on how
 ## Focus Areas
 
 - **Oncology clinical trial AI** — trial workflows, eligibility screening, patient journey simulation, and sponsor-side automation.
-- **Physical AI for healthcare** — robotics, embodied agents, digital twins, and safety-gated clinical workflows.
 - **Clinical interoperability** — MCP-style interfaces, FHIR/DICOM-inspired workflows, audit trails, and provenance.
 - **LLMs for pharmaceutical R&D** — language-model workflows for oncology, drug discovery, trial operations, and evidence synthesis.
 - **AI safety and governance** — responsible-use boundaries, validation concepts, limitations, privacy, and regulatory positioning.
