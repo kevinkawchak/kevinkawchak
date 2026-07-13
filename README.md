@@ -1,4 +1,4 @@
-### Story of an LLM Adjacent Daraxonrasib Trial
+### Story of a LLM Adjacent Daraxonrasib Trial
 
 OpenAI deep research was utilized in a June 2025 work featuring 40 Pancreatic Ductal Adenocarcinoma (PDAC) meta-analyses totaling over 400,000 words, many based on clinical trials. Gemini ranked a daraxonrasib drug combination as the top candidate for ChemicalQDevice to receive funding. The Gemini finding then served as an input for OpenAI and Anthropic to generate daraxonrasib-based financial proposals. (1)
 
