@@ -1,5 +1,8 @@
-## Prompt.md
+### Submissions
+- ChatGPT 5.6 Thinking Extended
+- Claude Code Opus 5 Max
 
+### Prompt.md
 For Part I: Use expert knowledge from Bay Area startup related sites such as Y Combinator. 
 For Part II: Include from startup news, being careful not to include low impact context. 
 For both Part I and Part II: Please elucidate when exactly the hardest times are for startup founders prior to a major funding round in terms of:
