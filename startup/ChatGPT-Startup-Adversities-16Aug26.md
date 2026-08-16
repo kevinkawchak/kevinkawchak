@@ -1,3 +1,6 @@
+## Submissions
+- ChatGPT 5.6 Thinking Extended
+
 # The Founder Pressure Curve Before a Major Funding Round
 ## Medical AI first, then other startup fields
 
