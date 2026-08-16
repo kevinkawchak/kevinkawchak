@@ -1,3 +1,6 @@
+## Submissions
+- Claude Code Opus 5 Max
+
 # When Exactly Are the Hardest Times for Startup Founders Before a Major Funding Round?
 
 **A T‑minus analysis of workload, complexity repetitions, and personal cost — Medical AI first, all other sectors second.**
